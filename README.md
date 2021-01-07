@@ -1,7 +1,7 @@
 # ExpenseTracker
 
-about to manage your monthly budget (expenses/incomes)
-It was made by react js, using Redux Store,  and express, js for backend server. and MongoDB as a database. 
+Expense can be used to manage your monthly budget (expenses/incomes)
+It was made using react js, using Redux Store,  and express, js for backend server. and MongoDB as a database. 
 So you can add/remove incomes and expenses. 
 
 
